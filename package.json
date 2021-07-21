@@ -1,0 +1,25 @@
+{
+  "name": "trello-spotify-api-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start:server": "nodemon -r dotenv/config server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmenendezh/trello-spotify-api-integration.git"
+  },
+  "author": "dmenendezh",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "dotenv": "^8.2.0",
+    "axios": "0.21.1",
+    "qs": "^6.10.1"
+  },
+  "bugs": {
+    "url": "https://github.com/dmenendezh/trello-spotify-api-integration/issues"
+  },
+  "homepage": "https://github.com/dmenendezh/trello-spotify-api-integration#readme"
+}
