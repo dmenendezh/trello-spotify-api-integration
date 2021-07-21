@@ -13,7 +13,7 @@ git clone https://github.com/dmenendezh/trello-spotify-api-integration.git
 ```bash
 npm install
 ```
-4. Iniciar el servidor mediante la consola "Terminal". Para esto, posicionarse dentro de la carpeta backend y desde allí ejecutar el siguiete comando:
+4. Iniciar el servidor mediante la consola "Terminal". Para esto, ejecutar el siguiete comando:
 
 ```bash
 npm run start:server
