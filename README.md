@@ -1,19 +1,19 @@
 # trello-spotify-api-integration
 
-1. Clonar el proyecto en su entorno de trabajo Visual Studio.
+1. Clone the project in Vistual Studio:
 
 ```bash
 git clone https://github.com/dmenendezh/trello-spotify-api-integration.git
 ```
 
-2. Instalar NodeJS
+2. Install NodeJS
 
-3. Instalar paquetes npm requeridos por el proyecto. Ejecutar el siguiete comando:
+3. Install npm packages required by the project. Execute this command:
 
 ```bash
 npm install
 ```
-4. Iniciar el servidor mediante la consola "Terminal". Para esto, ejecutar el siguiete comando:
+4. Iniciate the server through the terminal. Execute this command:
 
 ```bash
 npm run start:server
